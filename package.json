@@ -1,0 +1,16 @@
+{
+  "name": "express-react",
+  "version": "1.0.0",
+  "description": "Mi primer deploy fullstack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Burzacoding (César Pintos)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
